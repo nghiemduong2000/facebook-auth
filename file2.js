@@ -1,6 +1,5 @@
 const file1 = () => {
-<<<<<<< HEAD
-  console.log("Đi vào trong!");
+  console.log("Do you hear me? Hah??");
 };
 
 const file2 = () => {
@@ -13,11 +12,4 @@ const file2_2 = () => {
 
 const masterHackerProfessional = (a, b) => {
   return a + b;
-=======
-  console.log("Do you hear me? Hah??");
-};
-
-const masterHackerProfessional = () => {
-  console.log("Hello World", 1 + 1 + 1 + 2);
->>>>>>> Do you hear me ??
 };
