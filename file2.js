@@ -1,6 +1,6 @@
-
 const file1 = () => {
-  console.log("Cút ra ngoài");
+  console.log("Đi vào trong!");
+};
 
 const file2 = () => {
   console.log("this is the fucking word?");
@@ -10,6 +10,6 @@ const file2_2 = () => {
   console.log("this is feature for fun");
 };
 
-const masterHackerProfessional = () => {
-  console.log("Hello World");
+const masterHackerProfessional = (a, b) => {
+  return a + b;
 };
