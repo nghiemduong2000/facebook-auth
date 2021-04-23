@@ -1,3 +1,3 @@
-const file1 = () => {
-  console.log("This's file 1");
+const file2 = () => {
+  console.log("This's file 2");
 };
